@@ -21,4 +21,4 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 ## 🛠️ How to Run Locally
 
 1. Clone the repo:
-   ```bash "https://github.com/rekji11/My-portfolio.git"
+    "https://github.com/rekji11/My-portfolio.git"
