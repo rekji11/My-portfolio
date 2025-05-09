@@ -5,7 +5,7 @@ This is my personal portfolio website built using **HTML**, **CSS**, and **JavaS
 ## 🔧 Technologies Used
 
 - HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
+- CSS3 
 - JavaScript 
 
 
